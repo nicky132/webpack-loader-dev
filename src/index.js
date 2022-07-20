@@ -1,0 +1,1 @@
+document.write('hello nicky你好');
